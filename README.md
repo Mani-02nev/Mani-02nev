@@ -416,21 +416,41 @@ Diploma in CSE @ Seshasayee Institute of Technology · GPA: 9/10
 
 ## 📊 GitHub Analytics
 
+<p align="center">
+
+  <!-- 🔥 Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mani-02nev&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9" width="48%" />
+
+</p>
+
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mani-02nev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&count_private=true" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mani-02nev&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9" width="48%" />
+<p align="center">
 
-<br/><br/>
+  <!-- 📈 Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mani-02nev&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f97316&area=true&area_color=2D1B69&hide_border=true&radius=8" width="95%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mani-02nev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10" width="48%" />
+</p>
 
-<br/><br/>
+<br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mani-02nev&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f97316&area=true&area_color=2D1B69&hide_border=true&radius=8)](https://github.com/Mani-02nev)
+<p align="center">
 
-</div>
+  <!-- 🧠 Language Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mani-02nev&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mani-02nev&theme=tokyonight" width="45%" />
+
+</p>
+
+<br/>
+
+<p align="center">
+
+  <!-- ⚡ Productivity Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mani-02nev&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mani-02nev&theme=tokyonight&utcOffset=5.5" width="45%" />
+
+</p>
 
 <br/>
 

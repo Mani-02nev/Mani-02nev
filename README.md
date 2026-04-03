@@ -9,9 +9,9 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=60&lines=🚀+Full-Stack+Developer+%7C+React+%2B+Node.js;🤖+AI+Resume+Builder+%E2%86%92+50%E2%80%93200+Live+Users;🧠+OpenAI+API+%7C+Prompt+Engineering;🏭+ERP+System+%E2%86%92+End-to-End+Client+Delivery;🌱+Exploring+Agentic+AI+%26+Cloud+DevOps;🎯+Open+to+Internships+%26+Full-Stack+Roles" alt="Typing animation" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder;OpenAI+Integrator;React+Expert" />
+</p>
 
 <br/><br/>
 

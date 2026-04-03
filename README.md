@@ -9,11 +9,13 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder;OpenAI+Integrator;React+Expert" />
-</p>
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer+%7C+React+%2B+Node.js;AI+Resume+Builder+-+50-200+Users;OpenAI+API+%7C+Prompt+Engineering;ERP+System+-+Client+Project;Exploring+Agentic+AI+%26+Cloud;Open+to+Internships+%26+Roles" alt="Typing animation" />
+</a>
 
 <br/><br/>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karuppasamy--m02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karuppasamy-m02/)
 &nbsp;

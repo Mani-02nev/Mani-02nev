@@ -25,7 +25,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mani-02nev&label=Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true&base=100)
+![Profile Views](https://komarev.com/ghpvc/?username=karuppasamy-m02&label=Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true&base=100)
 
 </div>
 
@@ -419,7 +419,7 @@ Diploma in CSE @ Seshasayee Institute of Technology · GPA: 9/10
 <p align="center">
 
   <!-- 🔥 Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mani-02nev&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karuppasamy-m02&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9" width="48%" />
 
 </p>
 
@@ -428,7 +428,7 @@ Diploma in CSE @ Seshasayee Institute of Technology · GPA: 9/10
 <p align="center">
 
   <!-- 📈 Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mani-02nev&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f97316&area=true&area_color=2D1B69&hide_border=true&radius=8" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karuppasamy-m02&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f97316&area=true&area_color=2D1B69&hide_border=true&radius=8" width="95%" />
 
 </p>
 
@@ -437,8 +437,8 @@ Diploma in CSE @ Seshasayee Institute of Technology · GPA: 9/10
 <p align="center">
 
   <!-- 🧠 Language Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mani-02nev&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mani-02nev&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karuppasamy-m02&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karuppasamy-m02&theme=tokyonight" width="45%" />
 
 </p>
 
@@ -447,8 +447,8 @@ Diploma in CSE @ Seshasayee Institute of Technology · GPA: 9/10
 <p align="center">
 
   <!-- ⚡ Productivity Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mani-02nev&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mani-02nev&theme=tokyonight&utcOffset=5.5" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karuppasamy-m02&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karuppasamy-m02&theme=tokyonight&utcOffset=5.5" width="45%" />
 
 </p>
 

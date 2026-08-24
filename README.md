@@ -457,7 +457,14 @@ Diploma in CSE @ Seshasayee Institute of Technology · GPA: 9/10
 
 <br/>
 
----
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
 
 <!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
 

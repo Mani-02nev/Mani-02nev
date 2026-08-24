@@ -418,8 +418,12 @@ Diploma in CSE @ Seshasayee Institute of Technology · GPA: 9/10
 
 <p align="center">
 
-  <!-- 🔥 Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karuppasamy-m02&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9" width="48%" />
+<!-- 🔥 GitHub Streak Stats -->
+<img
+  src="https://streak-stats.demolab.com/?user=karuppasamy-m02&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=C9D1D9"
+  width="48%"
+  alt="GitHub Streak Stats"
+/>
 
 </p>
 
